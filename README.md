@@ -1,4 +1,5 @@
-Hello_Word
+Hello_Word!
 ==========
 
-The first repository
+My first repository
+I just learn 
